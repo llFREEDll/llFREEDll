@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @llFREEDll
+- 👀 I’m interested in Web developer and mobile dev
+- 🌱 I’m currently learning Xamarin.Forms
+- 💞️ I’m looking to collaborate on interesting proyects with js, php, html5, css3, Xamarin.Forms
+- 📫 How to reach me Twitter and instagram : @sm__alfredo
