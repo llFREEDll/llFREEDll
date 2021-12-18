@@ -1,6 +1,6 @@
 ### About Me 👩‍💻
 
-Hi, i'm Alfredo, a Mexican web developer i like to use modern technologies and keep me learning new stuff, right now im focus on make an awesome portfolio for the   future. 🌱 I’m currently learning React
+Hi, i'm Alfredo, a Mexican web developer i like to use modern technologies and keep me learning new stuff, right now im focus on make an awesome portfolio for the   future. 🌱 I’m currently redux
 
 ### i'm used to work with
 
