@@ -49,11 +49,11 @@ Hi, i'm Alfredo, full stack web developer
     <img src="https://img.icons8.com/color/48/000000/github--v1.png"
          alt="Alfredo github"/>
     </a>
+    <a href="https://www.linkedin.com/in/sm-alfredo-382370248/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png"
+         alt="Alfredo linkedin"/>
+    </a>
   <div/>
-  
-  ### My personal website in with interesting projects
-   You can check my personal website on:
-    https://nanowebmx.tk/
   
   ### Profile Views:
   ![Visitor Count](https://profile-counter.glitch.me/llfreedll/count.svg)
