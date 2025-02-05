@@ -2,6 +2,8 @@
 
 Hi, i'm Alfredo, full stack web developer
 
+I love programming and learn new tings 
+
 ### i'm used to work with
 
 #### Front-end
@@ -17,16 +19,19 @@ Hi, i'm Alfredo, full stack web developer
 ![netcore](https://img.icons8.com/color/48/net-framework.png)
 ![java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
 ![spring-boot](https://img.icons8.com/office/48/spring-logo.png)
+![express-js](https://img.icons8.com/color/48/express-js.png)
 
 #### DB
 
 ![sqlserver](https://img.icons8.com/color/48/microsoft-sql-server.png)
 ![firebase](https://img.icons8.com/color/48/000000/firebase.png)
 ![mysql](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![postgreesql](https://img.icons8.com/color/48/postgreesql.png)
 
 #### Cloud
 
 ![google-cloud](https://img.icons8.com/fluency/48/google-cloud.png)
+![azure](https://img.icons8.com/fluency/48/azure-1.png)
 
 ### Version control
 
